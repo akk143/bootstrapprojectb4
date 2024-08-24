@@ -86,7 +86,7 @@ a{
 /* Start Header Section */
 header{
     height: 100vh;
-    background: linear-gradient(to left,rgba(0,0,0,0.1),rgba(0,0,0,0.3))  , url(/landingpage/assets/img/banner/banner2.jpg);
+    background: linear-gradient(to left,rgba(0,0,0,0.1),rgba(0,0,0,0.3))  , url(/assets/img/banner/banner2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -175,7 +175,7 @@ header{
 
 /* Start About Us Section */
 .aboutuss{
-    background: linear-gradient(30deg,rgba(0,0,0,0),rgba(0,0,0,0.5))  , url(/landingpage/assets/img/banner/banner2.jpg);
+    background: linear-gradient(30deg,rgba(0,0,0,0),rgba(0,0,0,0.5))  , url(/assets/img/banner/banner2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
